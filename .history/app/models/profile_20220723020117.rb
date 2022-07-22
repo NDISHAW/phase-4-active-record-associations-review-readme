@@ -1,3 +1,3 @@
 class Profile < ApplicationRecord
-    belongs_to :author
+    belongs_to :auth
 end
